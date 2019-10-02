@@ -1,0 +1,31 @@
+body{
+	background-color: #8CB0DB;
+}
+.counter{
+	font-size: 48px;
+	font-weight: 700;
+	color: #0C4FC2;
+	text-align: center;
+}
+.v{
+	font-size: 48px;
+	font-weight: 700;
+	color: #EC730A;
+	text-align: center;
+}
+#demo
+{
+	margin:           3.0em 0.0em;
+	overflow:         hidden;
+	font:             normal normal normal 2.5em/2.0 'Open Sans Light', sans-serif;
+	color:            #ffffff;
+	background-color: #152E4F;
+}
+.animsition{
+	font-size: 20px;
+	font-weight: 700;
+	color: #16464A;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
